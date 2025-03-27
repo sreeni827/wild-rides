@@ -1,0 +1,97 @@
+
+- command: ls                                                                                                                                                                                                                                                                                 css  fonts  images  js
+  exit_code: 0
+  shell: bash
+  session_id: 8e3b1e1dd28041749efa38e0437372b3
+  cwd: /home/cloudshell-user
+  time: 1743087559
+- command: ls                                                                                                                                                                                                                                                               css  fonts  images  js
+  exit_code: 0
+  shell: bash
+  session_id: 8e3b1e1dd28041749efa38e0437372b3
+  cwd: /home/cloudshell-user
+  time: 1743087569
+- command: ls -tr                                                                                                                                                                                                                                                           css  fonts  js  images
+  exit_code: 0
+  shell: bash
+  session_id: 8e3b1e1dd28041749efa38e0437372b3
+  cwd: /home/cloudshell-user
+  time: 1743087582
+- command: ll                                                                                                                                                                                                                                                               total 16                                                                                                                                                                                                                                                                               drwxr-xr-x. 2 cloudshell-user cloudshell-user 4096 Mar 27 04:15 css                                                                                                                                                                                                                    drwxr-xr-x. 2 cloudshell-user cloudshell-user 4096 Mar 27 04:15 fonts                                                                                                                                                                                                                  drwxr-xr-x. 2 cloudshell-user cloudshell-user 4096 Mar 27 04:15 images                                                                                                                                                                                                                 drwxr-xr-x. 3 cloudshell-user cloudshell-user 4096 Mar 27 04:15 js
+  exit_code: 0
+  shell: bash
+  session_id: 8e3b1e1dd28041749efa38e0437372b3
+  cwd: /home/cloudshell-user
+  time: 1743087585
+- command: ll                                                                                                                                                                                                                                                               total 80                                                                                                                                                                                                                                                                               -rw-r--r--. 1 cloudshell-user cloudshell-user 3073 Feb  7  2024 apply.html                                                                                                                                                                                                             drwxr-xr-x. 2 cloudshell-user cloudshell-user 4096 Mar 27 15:00 css                                                                                                                                                                                                                    -rw-r--r--. 1 cloudshell-user cloudshell-user 6641 Feb  7  2024 faq.html                                                                                                                                                                                                               -rw-r--r--. 1 cloudshell-user cloudshell-user 1406 Feb  7  2024 favicon.ico                                                                                                                                                                                                            drwxr-xr-x. 2 cloudshell-user cloudshell-user 4096 Mar 27 15:00 fonts                                                                                                                                                                                                                  drwxr-xr-x. 2 cloudshell-user cloudshell-user 4096 Mar 27 15:00 images                                                                                                                                                                                                                 -rw-r--r--. 1 cloudshell-user cloudshell-user 6917 Feb  7  2024 index.html                                                                                                                                                                                                             -rw-r--r--. 1 cloudshell-user cloudshell-user 6228 Feb  7  2024 investors.html                                                                                                                                                                                                         drwxr-xr-x. 3 cloudshell-user cloudshell-user 4096 Mar 27 15:00 js                                                                                                                                                                                                                     -rw-r--r--. 1 cloudshell-user cloudshell-user 2794 Feb  7  2024 register.html                                                                                                                                                                                                          -rw-r--r--. 1 cloudshell-user cloudshell-user 4431 Feb  7  2024 ride.html                                                                                                                                                                                                              -rw-r--r--. 1 cloudshell-user cloudshell-user   47 Feb  7  2024 robots.txt                                                                                                                                                                                                             -rw-r--r--. 1 cloudshell-user cloudshell-user 2649 Feb  7  2024 signin.html                                                                                                                                                                                                            -rw-r--r--. 1 cloudshell-user cloudshell-user 5172 Feb  7  2024 unicorns.html                                                                                                                                                                                                          -rw-r--r--. 1 cloudshell-user cloudshell-user 2654 Feb  7  2024 verify.html
+  exit_code: 0
+  shell: bash
+  session_id: 8e3b1e1dd28041749efa38e0437372b3
+  cwd: /home/cloudshell-user
+  time: 1743087622
+- command: git init                                                                                                                                                                                                                                                         Reinitialized existing Git repository in /home/cloudshell-user/.git/
+  exit_code: 0
+  shell: bash
+  session_id: 8e3b1e1dd28041749efa38e0437372b3
+  cwd: /home/cloudshell-user
+  time: 1743087630
+- command: git remote origin https://github.com/sreeni827/wild-rides.git                                                                     error: unknown subcommand: `origin'                                                                                                   usage: git remote [-v | --verbose]                                                                                                       or: git remote add [-t <branch>] [-m <master>] [-f] [--tags | --no-tags] [--mirror=<fetch|push>] <name> <url>                         or: git remote rename [--[no-]progress] <old> <new>                                                                                   or: git remote remove <name>                                                                                                          or: git remote set-head <name> (-a | --auto | -d | --delete | <branch>)                                                               or: git remote [-v | --verbose] show [-n] <name>                                                                                      or: git remote prune [-n | --dry-run] <name>                                                                                          or: git remote [-v | --verbose] update [-p | --prune] [(<group> | <remote>)...]                                                       or: git remote set-branches [--add] <name> <branch>...                                                                                or: git remote get-url [--push] [--all] <name>                                                                                        or: git remote set-url [--push] <name> <newurl> [<oldurl>]                                                                            or: git remote set-url --add <name> <newurl>                                                                                          or: git remote set-url --delete <name> <url>                                                                                                                                                                                                                                 -v, --[no-]verbose    be verbose; must be placed before a subcommand
+  exit_code: 0
+  shell: bash
+  session_id: 8e3b1e1dd28041749efa38e0437372b3
+  cwd: /home/cloudshell-user
+  time: 1743087676
+- command: git remote add origin https://github.com/sreeni827/wild-rides.git                                               error: remote origin already exists.
+  exit_code: 0
+  shell: bash
+  session_id: 8e3b1e1dd28041749efa38e0437372b3
+  cwd: /home/cloudshell-user
+  time: 1743087701
+- command: git remote set-url origin https://github.com/sreeni827/wild-rides.git
+  exit_code: 0
+  shell: bash
+  session_id: 8e3b1e1dd28041749efa38e0437372b3
+  cwd: /home/cloudshell-user
+  time: 1743087739
+- command: git add .
+  exit_code: 0
+  shell: bash
+  session_id: 8e3b1e1dd28041749efa38e0437372b3
+  cwd: /home/cloudshell-user
+  time: 1743087752
+- command: git commit -m \"pudshing code\"                                                                                   Author identity unknown                                                                                                                                                                                                                                                     *** Please tell me who you are.                                                                                                                                                                                                                                             Run                                                                                                                                                                                                                                                                           git config --global user.email \"you@example.com\"                                                                                      git config --global user.name \"Your Name\"                                                                                                                                                                                                                                 to set your account's default identity.                                                                                               Omit --global to set the identity only in this repository.                                                                                                                                                                                                                  fatal: empty ident name (for <cloudshell-user@ip-10-142-92-178.us-west-2.compute.internal>) not allowed
+  exit_code: 0
+  shell: bash
+  session_id: 8e3b1e1dd28041749efa38e0437372b3
+  cwd: /home/cloudshell-user
+  time: 1743087764
+- command: git config --global --list                                                                                              fatal: unable to read config file '/home/cloudshell-user/.gitconfig': No such file or directory
+  exit_code: 0
+  shell: bash
+  session_id: 8e3b1e1dd28041749efa38e0437372b3
+  cwd: /home/cloudshell-user
+  time: 1743087823
+- command: git config --global user.email \"sreenu.ramanaboina@gmail.com\"
+  exit_code: 0
+  shell: bash
+  session_id: 8e3b1e1dd28041749efa38e0437372b3
+  cwd: /home/cloudshell-user
+  time: 1743087970
+- command: git config --global user.name \"Sreenivasulu Ramanaboina\"
+  exit_code: 0
+  shell: bash
+  session_id: 8e3b1e1dd28041749efa38e0437372b3
+  cwd: /home/cloudshell-user
+  time: 1743087980
+- command: git config --global --list                                                                            user.email=sreenu.ramanaboina@gmail.com                                                                                     user.name=Sreenivasulu Ramanaboina
+  exit_code: 0
+  shell: bash
+  session_id: 8e3b1e1dd28041749efa38e0437372b3
+  cwd: /home/cloudshell-user
+  time: 1743087991
+- command: git add.                                                                                              git: 'add.' is not a git command. See 'git --help'.                                                                                                                                                                                                     The most similar command is                                                                                                 \t       add
+  exit_code: 0
+  shell: bash
+  session_id: 8e3b1e1dd28041749efa38e0437372b3
+  cwd: /home/cloudshell-user
+  time: 1743088002
